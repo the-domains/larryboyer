@@ -1,0 +1,28 @@
+name: LarryBoyer
+favicon: null
+layout_spectrum: 0.7964006734546274
+typography_spectrum: 0.6188745920080692
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7598675671033561
+  lightness: 0.042765594786033034
+  saturation: 0.47631612652912736
+  rhythmicContrast: 0.498483995674178
+purpose: []
